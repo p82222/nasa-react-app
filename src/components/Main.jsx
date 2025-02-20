@@ -1,7 +1,7 @@
-export default function main() {
+export default function Main() {
     return (
-        <div>
-            main 123
+        <div className="imgContainer">
+            <img src="mars.png" alt="mar-demo-picture" className="bgImage" />
         </div>
     )
 }
