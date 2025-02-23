@@ -21,6 +21,22 @@ This is a React project using **Vite** that displays NASA's Astronomy Picture of
 
 ---
 
+## 🌐 **Live Demo**
+Check out the live version here: [NASA APOD React App](https://apod-react-app-cyl.netlify.app/)
+
+
+---
+
+## 📸 **Screenshots**
+
+### 🖼️ Main Page
+![Main Page](screenshots/main-page.png)
+
+### 🗂️ Sidebar
+![Sidebar](screenshots/sidebar.png)
+
+---
+
 ## ⚙️ **Setup Instructions**
 
 1. **Clone the repository:**
