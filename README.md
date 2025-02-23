@@ -30,10 +30,10 @@ Check out the live version here: [NASA APOD React App](https://apod-react-app-cy
 ## 📸 **Screenshots**
 
 ### 🖼️ Main Page
-![Main Page](screenshots/main-page.png)
+![Main Page](screenshots/Main-Page.png)
 
 ### 🗂️ Sidebar
-![Sidebar](screenshots/sidebar.png)
+![Sidebar](screenshots/Sidebar.png)
 
 ---
 
